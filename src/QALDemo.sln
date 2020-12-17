@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loopy", "ClassExamples\Loop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQy", "ClassExamples\LINQy\LINQy.csproj", "{EC6F1797-E855-4EB1-957C-01AA5AE9A981}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "CodeExamples\Dictionaries\Dictionaries.csproj", "{CF04990A-2223-4A0B-A3AE-E5D24DBBECE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{EC6F1797-E855-4EB1-957C-01AA5AE9A981}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC6F1797-E855-4EB1-957C-01AA5AE9A981}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC6F1797-E855-4EB1-957C-01AA5AE9A981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF04990A-2223-4A0B-A3AE-E5D24DBBECE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF04990A-2223-4A0B-A3AE-E5D24DBBECE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF04990A-2223-4A0B-A3AE-E5D24DBBECE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF04990A-2223-4A0B-A3AE-E5D24DBBECE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,6 +152,7 @@ Global
 		{51B5B0E0-7F36-4C88-83A9-3C6A4E2D089B} = {22648676-9D92-4796-AD1A-0E867BF54D84}
 		{891A238D-844A-4CC8-8090-2B9AAD93341A} = {22648676-9D92-4796-AD1A-0E867BF54D84}
 		{EC6F1797-E855-4EB1-957C-01AA5AE9A981} = {22648676-9D92-4796-AD1A-0E867BF54D84}
+		{CF04990A-2223-4A0B-A3AE-E5D24DBBECE1} = {22648676-9D92-4796-AD1A-0E867BF54D84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53836FF2-396B-493B-A2AA-392FB26D5B77}
