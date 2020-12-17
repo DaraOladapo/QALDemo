@@ -1,0 +1,15 @@
+There are 12 months in the Gregorian calendar- January-December
+Create an enumeration for that.
+Then create a method that outputs the months and numeric value of it and the number of days in the month.
+An example is shown below
+
+1. January has 31 days
+
+12. December has 31 days
+
+
+After that is done.
+Create another method that gets an input of a users's date of birth and returns the number of days in the month the user was born
+An example is shown below
+Input June 28, 1951
+Output: Your month of birth - June has 30 days.

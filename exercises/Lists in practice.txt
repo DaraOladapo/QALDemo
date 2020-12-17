@@ -1,0 +1,14 @@
+Car has the following properties - Make, Model and YearOfManufacture
+
+Create a C# program that accepts inputs from the user.
+Before any thing else, create a class for Car with the properties defined above.
+Now, ask for how many inputs the user (you of course) wants to make for their car.
+Create a list of cars to add your cars to as user make their input.
+After receiving this input, loop through it to accept the 3 properites of your Car class.
+
+
+
+As your receive each of these inputs per loop iteration, remember to assign them to a the Car class and add
+
+Once you're done, out the total number of cars in the list using .Count helper property.
+Then print out the Makes of the car in ascending order.

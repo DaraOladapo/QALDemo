@@ -1,0 +1,10 @@
+We have learnt about extension/helper methods.
+Create class of your choosing and create a list of that class.
+Remember to populate that list with data.
+
+Then create an helper/extension method to output a list of one of the properties of the class in descending order and prints it to the console.
+
+For example, if you have a class called Car with properties - Make, Model and YearOfManufacture
+So you create a list of Cars, then create an helper method that gets the make of the car out for me as a list.
+So my helper method would look something like myListOfCars.GetMake().
+In the method, I would have sorted that out in descending order, and print this out to the console from my main program.

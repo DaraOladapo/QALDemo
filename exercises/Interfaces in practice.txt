@@ -1,0 +1,8 @@
+We have talked about interfaces in C#.
+Let's try out cars again.
+Create a simple program to implement the following scenario
+
+Car has the following properties - Make, Model and YearOfManufacture
+You also have an ICar interface that Car must inherit from with the following method enforcements - Drive, Start, Stop
+
+Upon inheritance, you should implement the interface methods and create your own implementation of it.
