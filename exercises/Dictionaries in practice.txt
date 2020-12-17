@@ -1,0 +1,16 @@
+You have these key value pairs of various access tokens.
+
+HousePassCode
+1234
+GarageCode
+4321
+MasterBedroom
+2342
+MainGate
+4568
+
+Develop a simple console application to get the passcodes in this order using Dictionary
+Masterbedroom
+MainGate
+GarageCode
+HousePassCode

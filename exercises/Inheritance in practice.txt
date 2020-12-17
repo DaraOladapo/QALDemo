@@ -1,0 +1,9 @@
+We have been working with cars and vehicles in our examples - just because I like cars.
+Think of an example concept from any of these
+- Pets, Animals
+- Person, Student, Teacher
+- Employee, Manager, HR
+- Phone. Laptop, Electronic Device
+
+Then, think about what is a commanility and uniqueness between each of the items in your selection
+Then, implement that thought in code to implement inheritance
