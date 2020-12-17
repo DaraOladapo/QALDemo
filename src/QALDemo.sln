@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parsing", "Parsing\Parsing.csproj", "{76E9BA7F-8E55-4B1E-9BA4-CD1A2678A5C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parsing", "ClassExamples\Parsing\Parsing.csproj", "{76E9BA7F-8E55-4B1E-9BA4-CD1A2678A5C4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Statics", "Statics\Statics.csproj", "{1B0482BF-A7BA-4F1A-8003-AEF1555147CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Statics", "ClassExamples\Statics\Statics.csproj", "{1B0482BF-A7BA-4F1A-8003-AEF1555147CC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerations", "Enumerations\Enumerations.csproj", "{56A42DA9-7CE4-4E00-B531-3BEE6985844A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerations", "ClassExamples\Enumerations\Enumerations.csproj", "{56A42DA9-7CE4-4E00-B531-3BEE6985844A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{A9AA6236-EA7C-49F3-9C2C-B23F5480FBCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods", "ClassExamples\ExtensionMethods\ExtensionMethods.csproj", "{A9AA6236-EA7C-49F3-9C2C-B23F5480FBCB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsAndGenerics", "CollectionsAndGenerics\CollectionsAndGenerics.csproj", "{29FFD05B-2375-4074-A77F-A0D2710D7BB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsAndGenerics", "ClassExamples\CollectionsAndGenerics\CollectionsAndGenerics.csproj", "{29FFD05B-2375-4074-A77F-A0D2710D7BB2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyTestProject", "MyTestProject\MyTestProject.csproj", "{1DD0E750-B026-4200-9518-03EF8BD1BD8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyTestProject", "ClassExamples\MyTestProject\MyTestProject.csproj", "{1DD0E750-B026-4200-9518-03EF8BD1BD8A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPConcepts", "OOPConcepts\OOPConcepts.csproj", "{E835165E-3D19-4FAC-9CF7-2E689A4B38B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPConcepts", "ClassExamples\OOPConcepts\OOPConcepts.csproj", "{E835165E-3D19-4FAC-9CF7-2E689A4B38B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{3C59B0B5-1E02-4C82-88C0-F4C610BF452B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApplication", "ClassExamples\ConsoleApplication\ConsoleApplication.csproj", "{3C59B0B5-1E02-4C82-88C0-F4C610BF452B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interafaces", "Interafaces\Interafaces.csproj", "{D2ED2272-18E5-4D28-AF1F-40EBB56237D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interafaces", "ClassExamples\Interafaces\Interafaces.csproj", "{D2ED2272-18E5-4D28-AF1F-40EBB56237D6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication", "WebApplication\WebApplication.csproj", "{FDF2C10F-873A-4408-8420-DF3DBB25DF9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication", "ClassExamples\WebApplication\WebApplication.csproj", "{FDF2C10F-873A-4408-8420-DF3DBB25DF9A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegation", "Delegation\Delegation.csproj", "{ADB90793-3702-4204-8C9D-4365FE919A3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegation", "ClassExamples\Delegation\Delegation.csproj", "{ADB90793-3702-4204-8C9D-4365FE919A3B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassExamples", "ClassExamples", "{22648676-9D92-4796-AD1A-0E867BF54D84}"
 EndProject
