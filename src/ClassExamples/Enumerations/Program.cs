@@ -6,6 +6,8 @@ namespace Enumerations
     {
         static void Main(string[] args)
         {
+
+            //thursday != Thursday != THURSDAY
             var DayOfWeek = (DaysOfTheWeek)DateTime.Today.AddYears(0).DayOfWeek;
             switch (DayOfWeek)
             {
