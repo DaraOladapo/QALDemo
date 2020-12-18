@@ -44,7 +44,7 @@ namespace SchoolProject.Web.Controllers
         public ActionResult<Student> Post([FromBody] AddStudent addStudent)
         {
             var student = DbContext.Students.FirstOrDefault(
-                s => s.FullName == addStudent.FullName && s.Grade == addStudent.Grade && s.Courses == addStudent.Courses);
+                s => s.FullName == addStudent.FullName && s.Grade == addStudent.Grade);
             if (student != null)
                 return BadRequest("There is already a student with those details in the records.");
             else
@@ -53,7 +53,6 @@ namespace SchoolProject.Web.Controllers
                 {
                     FirstName = addStudent.FirstName,
                     LastName = addStudent.LastName,
-                    Courses = addStudent.Courses,
                     Grade = addStudent.Grade,
                     DateCreated = DateTime.Now,
                     LastUpdatedOn = DateTime.Now
@@ -75,7 +74,6 @@ namespace SchoolProject.Web.Controllers
             {
                 student.FirstName = updateStudent.FirstName;
                 student.LastName = updateStudent.LastName;
-                student.Courses = updateStudent.Courses;
                 student.Grade = updateStudent.Grade;
                 student.LastUpdatedOn = DateTime.Now;
                 DbContext.SaveChanges();

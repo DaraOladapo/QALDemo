@@ -11,6 +11,5 @@ namespace SchoolProject.Library.BindingModels
         public string LastName { get; set; }
         public string FullName => $"{FirstName} {LastName}";
         public int Grade { get; set; }
-        public List<Course> Courses { get; set; }
     }
 }

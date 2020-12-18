@@ -14,7 +14,7 @@ namespace SchoolProject.Web.Data
         {
         }
         public DbSet<Course> Courses { get; set; }
-        //public DbSet<CourseRegistration> CourseRegistrations { get; set; }
+        public DbSet<CourseRegistration> CourseRegistrations { get; set; }
         public DbSet<Student> Students { get; set; }
         public DbSet<Teacher> Teachers{ get; set; }
     }

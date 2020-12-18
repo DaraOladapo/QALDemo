@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SchoolProject.Library.Models
@@ -8,5 +9,6 @@ namespace SchoolProject.Library.Models
         public int ID { get; set; }
         public Course Course { get; set; }
         public Student Student { get; set; }
+        public DateTime RegistrationDate { get; set; }
     }
 }

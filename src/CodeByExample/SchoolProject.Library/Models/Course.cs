@@ -11,6 +11,5 @@ namespace SchoolProject.Library.Models
         public string Code { get; set; }
         public DateTime DateCreated { get; set; }
         public DateTime LastUpdatedOn { get; set; }
-        public virtual ICollection<Student> Students { get; set; }
     }
 }

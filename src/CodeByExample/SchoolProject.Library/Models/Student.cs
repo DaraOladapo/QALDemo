@@ -7,8 +7,8 @@ namespace SchoolProject.Library.Models
     public class Student: Person
     {
         public int Grade { get; set; }
-        public List<Course> Courses { get; set; }
-        public virtual ICollection<Course> Courses { get; set; }
+        //public List<Course> Courses { get; set; }
+        public virtual  ICollection<CourseRegistration> CourseRegistrations { get; set; }
 
     }
 }
