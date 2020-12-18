@@ -10,6 +10,6 @@ namespace SchoolProject.Library.BindingModels
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string FullName => $"{FirstName} {LastName}";
-        public int Grade { get; set; }
+        public string EmailAddress { get; set; }
     }
 }

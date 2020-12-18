@@ -10,6 +10,7 @@ namespace SchoolProject.Library.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string FullName => $"{FirstName} {LastName}";
+        public string EmailAddress { get; set; }
         public DateTime DateCreated { get; set; }
         public DateTime LastUpdatedOn { get; set; }
     }
