@@ -33,21 +33,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeByExample", "CodeByExam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "ClassExamples\DataTypes\DataTypes.csproj", "{753D094F-A47C-4A6E-AB72-F6B64A01A346}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "ClassExamples\Strings\Strings.csproj", "{4A47A71B-96F8-489D-B52F-5D261562B74B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "ClassExamples\Strings\Strings.csproj", "{4A47A71B-96F8-489D-B52F-5D261562B74B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionsAndLoops", "ClassExamples\ConditionsAndLoops\ConditionsAndLoops.csproj", "{13769A57-F8F1-4C58-A2D9-2D378911F31E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionsAndLoops", "ClassExamples\ConditionsAndLoops\ConditionsAndLoops.csproj", "{13769A57-F8F1-4C58-A2D9-2D378911F31E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsRevisited", "ClassExamples\CarsRevisited\CarsRevisited.csproj", "{11DC34A6-875E-4522-8591-9A235112CE02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarsRevisited", "ClassExamples\CarsRevisited\CarsRevisited.csproj", "{11DC34A6-875E-4522-8591-9A235112CE02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loopy", "ClassExamples\Loopy\Loopy.csproj", "{891A238D-844A-4CC8-8090-2B9AAD93341A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loopy", "ClassExamples\Loopy\Loopy.csproj", "{891A238D-844A-4CC8-8090-2B9AAD93341A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQy", "ClassExamples\LINQy\LINQy.csproj", "{EC6F1797-E855-4EB1-957C-01AA5AE9A981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQy", "ClassExamples\LINQy\LINQy.csproj", "{EC6F1797-E855-4EB1-957C-01AA5AE9A981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodsLabs", "LabSolutions\ExtensionMethodsLabs\ExtensionMethodsLabs.csproj", "{06A6AA10-08A3-474D-BD40-5E1CD08337EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethodsLabs", "LabSolutions\ExtensionMethodsLabs\ExtensionMethodsLabs.csproj", "{06A6AA10-08A3-474D-BD40-5E1CD08337EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceLabs", "LabSolutions\InheritanceLabs\InheritanceLabs.csproj", "{618D2288-5018-4868-A999-66F636DCE2E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceLabs", "LabSolutions\InheritanceLabs\InheritanceLabs.csproj", "{618D2288-5018-4868-A999-66F636DCE2E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsLab", "LabSolutions\ListsLab\ListsLab.csproj", "{46166DE5-6954-4812-A4ED-59D106EE7E02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListsLab", "LabSolutions\ListsLab\ListsLab.csproj", "{46166DE5-6954-4812-A4ED-59D106EE7E02}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "ClassExamples\Arrays\Arrays.csproj", "{80A12E29-5CCE-46BF-B6DC-33815370C4E4}"
 EndProject
@@ -55,9 +55,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionaries", "ClassExampl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesLab", "LabSolutions\InterfacesLab\InterfacesLab.csproj", "{5CC53CC7-FE32-469A-BED3-44AFFA016EE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryLab", "LabSolutions\DictionaryLab\DictionaryLab.csproj", "{126D60D8-71BF-4B7D-BAB5-2425C5337BCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryLab", "LabSolutions\DictionaryLab\DictionaryLab.csproj", "{126D60D8-71BF-4B7D-BAB5-2425C5337BCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumLabs", "LabSolutions\EnumLabs\EnumLabs.csproj", "{FA03D160-DFF7-4BC4-B08C-DBE0771472D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumLabs", "LabSolutions\EnumLabs\EnumLabs.csproj", "{FA03D160-DFF7-4BC4-B08C-DBE0771472D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF", "ClassExamples\EF\EF.csproj", "{D83E99D8-68D0-4FA8-83EB-B47C16FADCD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFAPI", "ClassExamples\EFAPI\EFAPI.csproj", "{7C82C90E-958D-4322-8F12-203F40D0CC88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{FA03D160-DFF7-4BC4-B08C-DBE0771472D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA03D160-DFF7-4BC4-B08C-DBE0771472D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA03D160-DFF7-4BC4-B08C-DBE0771472D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83E99D8-68D0-4FA8-83EB-B47C16FADCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83E99D8-68D0-4FA8-83EB-B47C16FADCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83E99D8-68D0-4FA8-83EB-B47C16FADCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83E99D8-68D0-4FA8-83EB-B47C16FADCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C82C90E-958D-4322-8F12-203F40D0CC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C82C90E-958D-4322-8F12-203F40D0CC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C82C90E-958D-4322-8F12-203F40D0CC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C82C90E-958D-4322-8F12-203F40D0CC88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -195,6 +207,8 @@ Global
 		{5CC53CC7-FE32-469A-BED3-44AFFA016EE0} = {1DAEE951-ED33-4BFA-ACD0-178EB89BF3DC}
 		{126D60D8-71BF-4B7D-BAB5-2425C5337BCE} = {1DAEE951-ED33-4BFA-ACD0-178EB89BF3DC}
 		{FA03D160-DFF7-4BC4-B08C-DBE0771472D7} = {1DAEE951-ED33-4BFA-ACD0-178EB89BF3DC}
+		{D83E99D8-68D0-4FA8-83EB-B47C16FADCD2} = {22648676-9D92-4796-AD1A-0E867BF54D84}
+		{7C82C90E-958D-4322-8F12-203F40D0CC88} = {22648676-9D92-4796-AD1A-0E867BF54D84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53836FF2-396B-493B-A2AA-392FB26D5B77}
