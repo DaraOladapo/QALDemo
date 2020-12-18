@@ -19,9 +19,5 @@
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.0" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <ProjectReference Include="..\SchoolProject.Library\SchoolProject.Library.csproj" />
-	</ItemGroup>
-
 
 </Project>
